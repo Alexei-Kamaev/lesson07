@@ -10,7 +10,7 @@ function filter (firstArr, secondArr) {
             }
         }
     }
-    console.log('Массив студентов, который сдали экзамен:');
+    console.log('Массив студентов, которые сдали экзамен:');
     console.log(firstArr);
 }
 filter (allStudents, failedStudents);
